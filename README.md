@@ -1,5 +1,5 @@
-kicad-spice-libraries
-=====================
+KiCAD Libraries for SPICE Simulation
+====================================
 
 Overview
 --------
